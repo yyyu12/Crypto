@@ -1,4 +1,4 @@
-# Crypto 2023 Spring Semester
+# 2023 Spring Semester
 
 Lecture Final grade: written exam + oral exam
 
